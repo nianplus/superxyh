@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 超级谢雨航！
+`Nian~`
 
-You can use the [editor on GitHub](https://github.com/nianplus/superxyh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人介绍
+谢雨航，别号谢公，鸢城人，现就读于鸢城一中。谢公会数学竞赛、生物竞赛，精通微积分、求导，会唱《2MMMxNian~》。性格开朗活泼好动，善打羽毛球。  
+口头禅为“Nian～”，十分逗比，有憨态。当别人复读该口头禅时会暴怒并喊“Mard！”。  
+谢公好睡，包括体育课在内无时无刻不可睡觉，常被英语老师与地理老师发现。  
+军训时，谢公使用具有自主知识产权的“全自动人工智能顺拐控制系统”，成功被教官抓获并进行教育改正。这套系统在改正过程中发挥了不可磨灭的作用：让教官为之折♂服，并征♂服了总教官，获得“军训标兵”称号。  
+数学课上，因使用求导进行作弊而惨遭数学老师赶下讲台，愤而半夜前去凿墙（结果凿错方向了）。  
+其“Nian～”发音在一个普通的日子被检验科小菜使用葛平声库进行了还原，并制作了谢公的人物角色曲《2MMMxNian~》。  
+“谢公宿处今尚在，氯水荡漾氰猿啼。”  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nianplus/superxyh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 相册
+nothing...
